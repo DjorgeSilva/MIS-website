@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/MIS-website/static/js/main.2514bd83.chunk.js",
+    "main.js.map": "/MIS-website/static/js/main.2514bd83.chunk.js.map",
+    "runtime-main.js": "/MIS-website/static/js/runtime-main.b76f380b.js",
+    "runtime-main.js.map": "/MIS-website/static/js/runtime-main.b76f380b.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/MIS-website/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.93a35118.chunk.js": "/MIS-website/static/js/2.93a35118.chunk.js",
+    "static/js/2.93a35118.chunk.js.map": "/MIS-website/static/js/2.93a35118.chunk.js.map",
+    "index.html": "/MIS-website/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/MIS-website/static/css/2.61b4cb56.chunk.css.map",
+    "static/js/2.93a35118.chunk.js.LICENSE.txt": "/MIS-website/static/js/2.93a35118.chunk.js.LICENSE.txt",
+    "static/media/img-about.2380fe4d.jpg": "/MIS-website/static/media/img-about.2380fe4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b76f380b.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.93a35118.chunk.js",
+    "static/js/main.2514bd83.chunk.js"
+  ]
+}
